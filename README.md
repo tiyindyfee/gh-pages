@@ -1,1 +1,1 @@
-# gh-pages
+# Example GitHub Pages
